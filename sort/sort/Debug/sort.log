@@ -1,0 +1,5 @@
+﻿  sort.cpp
+c:\users\coldplay\desktop\github\algorithm\sort\sort\sort.cpp(2): warning C4005: “INFINITY”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\corecrt_math.h(89): note: 参见“INFINITY”的前一个定义
+  sort.vcxproj -> C:\Users\COLDPLAY\Desktop\GitHub\Algorithm\sort\Debug\sort.exe
+  sort.vcxproj -> C:\Users\COLDPLAY\Desktop\GitHub\Algorithm\sort\Debug\sort.pdb (Partial PDB)
